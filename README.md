@@ -12,5 +12,5 @@ I first downloaded GitHub on my laptop. I then logged into my account and clicke
 * I like to hang out with my friends
 
 ## Websites I Recommend
-* [Visit GitHub!] (www.britannica.com)
-* [Visit GitHub!](https://www.classical-music.com)
+* [Visit Britannica!] (www.britannica.com)  This website is very helpful becase it provides me with a lot of accurate information about a wide range of topics.  
+* [Visit Classical Music History!](www.classical-music.com)  I like this website because it gives me a lot of interesting facts about classical music.
